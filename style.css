@@ -1,0 +1,74 @@
+#start, #number_of_objects, #status
+{
+    font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+    background-image: url("background.jpg");
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: Yeon Sung;
+    font-size: 40px;
+    letter-spacing: 3px;
+    background-color: skyblue;
+    color: darkblue;
+    font-weight: bold;
+    line-height: 2;
+}
+
+.copyright_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: darkcyan;
+    line-height: 3;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    font-size: 17px;
+}
+
+canvas
+{
+    border: 5px solid lightgreen;
+    border-radius: 15px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 18px forestgreen;
+}
+
+#label
+{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#objects
+{
+    width: 30%;
+}
+
+#label
+{
+    color: white;
+    font-weight: bold;
+}
+
+.note
+{
+    font-size: 20px;
+    color: black;
+}
+
+#bold
+{
+    font-weight: 800;
+}
